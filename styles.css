@@ -1,7 +1,0 @@
-body { font-family: 'Segoe UI', sans-serif; background: #f8f9fa; color: #333; margin: 0; padding: 0; }
-header, footer { background: #002147; color: white; padding: 1rem; text-align: center; }
-nav ul { list-style: none; padding: 0; display: flex; justify-content: center; gap: 1rem; }
-nav a { color: white; text-decoration: none; padding: 0.5rem; }
-main { padding: 2rem; background: white; max-width: 900px; margin: 1rem auto; box-shadow: 0 2px 6px rgba(0,0,0,0.05); }
-form input, form textarea { width: 100%; padding: 0.5rem; margin-bottom: 1rem; border-radius: 4px; border: 1px solid #ccc; }
-button { background: #002147; color: white; padding: 0.6rem 1.2rem; border: none; border-radius: 4px; cursor: pointer; }
